@@ -1,8 +1,8 @@
 import React,{useState} from "react";
 import './App.css';
-import SecondComponent from './components/Massage';
-import FirstComponents from "./components/AddTodo";
-import User from "./components/User"
+import SecondComponent from './Components/Massage';
+import FirstComponents from "./Components/AddTodo";
+import User from "./Components/User"
 //import ShowTodo from "./Components/ShowTodo";
 
 import { BrowserRouter as Router, Switch , Route , Link} from "react-router-dom";

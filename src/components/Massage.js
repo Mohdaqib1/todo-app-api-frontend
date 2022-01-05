@@ -1,5 +1,4 @@
 import React,{ useState, useEffect} from 'react';
-import DeleteTodo from './DeleteTodo'
 import Delete from './delete.png';
 
 import Edit from './edit.png';
